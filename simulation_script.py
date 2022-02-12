@@ -4,7 +4,7 @@ import math
 import random
 
 # Set number of records that should be simulated
-NROWS = 5000
+NROWS = 10000
 
 # Set seed value to recreate same simulation
 random.seed(3901531835)
