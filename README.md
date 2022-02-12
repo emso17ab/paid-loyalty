@@ -1,2 +1,2 @@
 # paid-loyalty
-Causal inference project
+Causal Data Science exam project
